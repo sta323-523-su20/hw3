@@ -22,7 +22,7 @@ The above is probably a little hyperbolic, but let's examine this fuel turf
 war by getting the data via scraping, APIs, and then doing some visual analysis.
 
 Before you begin Homework 3, watch 
-[Getting Started on Homework 3](https://warpwire.duke.edu).
+[Getting Started on Homework 3](https://warpwire.duke.edu/w/pdIDAA/).
 
 ## R project organization
 
